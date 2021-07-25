@@ -1,4 +1,4 @@
-# Ultimate DSA Solutions for Coding Interview Questions 🔥🔥
+# Ultimate DSA Solutions for Coding Interviews 🔥🔥
 > Click :star: if you like the project. Pull Request are highly appreciated.
 
 # Solutions to DSA questions 🔥🔥
